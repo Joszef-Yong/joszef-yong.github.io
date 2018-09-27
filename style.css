@@ -1,0 +1,31 @@
+body, 
+html{
+	width: 100%;
+	height: 95%;
+	color: #fff;
+}
+
+html{
+	background-color: #8000ff;
+}
+header{
+	background-position: center;
+	background-image: url(https://d2v9y0dukr6mq2.cloudfront.net/video/thumbnail/4GTMiRxFeijvy2o2m/audio-mixer-mixing-board-fader-and-knobs-music-mixing-console_b03xhj86_thumbnail-full05.png);
+	background-size: cover;
+	height: 100%;
+}
+header{
+	text-align: center;
+	
+}
+.abt{
+	text-align: center;
+	display: block;
+	font-size: ;
+	color: #fff;
+	background: #4d0099;
+	padding: 2px 15px 0 16px;
+	height:11%;
+	box-sizing: border-box;
+	/*line-height: 43px;*/
+}
